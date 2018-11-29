@@ -1,0 +1,54 @@
+{
+  "_from": "hexo-deployer-ipfs@^1.0.13",
+  "_id": "hexo-deployer-ipfs@1.0.13",
+  "_inBundle": false,
+  "_integrity": "sha1-UYdpbeOQy05DBj3O/mUQvT3gq+I=",
+  "_location": "/hexo-deployer-ipfs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "hexo-deployer-ipfs@^1.0.13",
+    "name": "hexo-deployer-ipfs",
+    "escapedName": "hexo-deployer-ipfs",
+    "rawSpec": "^1.0.13",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.13"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/hexo-deployer-ipfs/download/hexo-deployer-ipfs-1.0.13.tgz",
+  "_shasum": "5187696de390cb4e43063dcefe6510bd3de0abe2",
+  "_spec": "hexo-deployer-ipfs@^1.0.13",
+  "_where": "/Users/guqianfeng/web/my_dapps/my-blog",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/IamGabrielWu/hexo-deployer-ipfs/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "hexo-fs": "^0.2.2",
+    "ipfs-api": "^19.0.0",
+    "path": "^0.12.7"
+  },
+  "deprecated": false,
+  "description": "Installation Using npm > cd 'your hexo project' <br> > npm i --save hexo-deployer-ipfs",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/IamGabrielWu/hexo-deployer-ipfs#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "hexo-deployer-ipfs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamGabrielWu/hexo-deployer-ipfs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.13"
+}
