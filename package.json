@@ -42,13 +42,14 @@
   "homepage": "https://github.com/IamGabrielWu/hexo-deployer-ipfs#readme",
   "license": "ISC",
   "main": "index.js",
-  "name": "hexo-deployer-ipfs",
+  "private": false,
+  "name": "force-hexo-deployer-ipfs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IamGabrielWu/hexo-deployer-ipfs.git"
+    "url": "https://github.com/rangerdirector/force-hexo-deployer-ipfs.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.13"
+  "version": "1.0.0"
 }
